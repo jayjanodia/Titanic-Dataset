@@ -1,0 +1,7 @@
+Missing Data:
+Take the mean of the columns.
+from sklearn.preprocessing import Imputer
+
+Categorizing the data:
+Change text into numbers.
+OneHotEncoder is used to seperate each unique text to numbers.

@@ -1,0 +1,1 @@
+Technology was not up to the right standard to facilitate neural networks cause large amount of data could not be processed

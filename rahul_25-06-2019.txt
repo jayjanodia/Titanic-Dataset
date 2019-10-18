@@ -1,0 +1,8 @@
+Applications of ML:
+	Facebook face detection
+	Xbox kinect: random forest 
+	VR Headsets
+	Keyboard on phones - speech to text/voice recognition
+	Robot Dogs: Reinforcement Learning
+	Facebook Ads, Netflix, Audible: Recommendation Systems
+	
